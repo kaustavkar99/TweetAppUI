@@ -124,7 +124,7 @@ function PostCompose() {
             />
           </Form.Group>
           <Form.Group className="mb-3">
-            <Form.Label>Handle Name</Form.Label>
+            <Form.Label>Tag</Form.Label>
             <Form.Control
               type="text"
               value={handle}
